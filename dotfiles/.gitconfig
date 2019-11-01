@@ -1,7 +1,7 @@
 [user]
-	name = Casey Webb
-	email = notcaseywebb@gmail.com
-	signingkey = A81562266B0C8121
+	name = Chris Smolen
+	email = iamsmolz@gmail.com
+	signingkey = 8B2DA9220C7ED659
 [core]
 	editor = code --new-window --wait
 [commit]
